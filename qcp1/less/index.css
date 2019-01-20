@@ -1,0 +1,11 @@
+section {
+  width: 200px;
+  background: red;
+}
+section .div1 {
+  width: 100px;
+  background: yellow;
+}
+section .div1 h1 {
+  color: #0000ff;
+}
